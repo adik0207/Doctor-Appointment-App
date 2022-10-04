@@ -43,7 +43,7 @@
                 android:layout_height="wrap_content"
                 android:theme="@style/TextInputLayoutStyle"
                 app:boxStrokeColor="#000"
-                app:hintTextAppearance="color/colorPrimary">
+                app:hintTextAppearance="@color/purple_500">
 
                 <com.google.android.material.textfield.TextInputEditText
                     android:id="@+id/loginEmail"
@@ -65,7 +65,7 @@
                 android:layout_height="wrap_content"
                 android:theme="@style/TextInputLayoutStyle"
                 app:boxStrokeColor="#000"
-                app:hintTextAppearance="color/colorPrimary">
+                app:hintTextAppearance="@color/purple_500">
 
                 <com.google.android.material.textfield.TextInputEditText
                     android:id="@+id/loginPassword"

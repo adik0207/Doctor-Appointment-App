@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Doctor Appointment App</string>
+    <string name="welcome_to_this_application">Welcome to this application</string>
+    <string name="enter_email">Enter your email</string>
+    <string name="enter_password">Enter your password</string>
+    <string name="sign_in_now">Sign in now</string>
+    <string name="admin_login">Admin Login</string>
+    <string name="don_t_have_an_account_login">Don\'t have an account? Login</string>
+</resources>

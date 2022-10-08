@@ -6,9 +6,14 @@
         <item name="colorPrimaryDark">@color/purple_700</item>
         <item name="colorAccent">@color/teal_200</item>
     </style>
-    
+
+    <style name="TextStyle" parent="@android:style/TextAppearance">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#aacbb4</item>
+    </style>
+
     <style name="TextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
-        <item name="boxStrokeColor">#fff</item>
+        <item name="boxStrokeColor">@color/white</item>
         <item name="boxStrokeWidth">2dp</item>
     </style>
 </resources>

@@ -5,5 +5,27 @@
     <string name="enter_password">Enter your password</string>
     <string name="sign_in_now">Sign in now</string>
     <string name="admin_login">Admin Login</string>
-    <string name="don_t_have_an_account_login">Don\'t have an account? Login</string>
+    <string name="don_t_have_an_account_login">Don\'t have an account? Register</string>
+
+    <string-array name="timeframes">
+        <item>Select your time of availability</item>
+        <item>7-9 AM</item>
+        <item>9-11 AM</item>
+        <item>11-1 PM</item>
+        <item>2-4 PM</item>
+        <item>4-6 PM</item>
+    </string-array>
+
+    <string-array name="departments">
+        <item>Select your department</item>
+        <item>Dentistry</item>
+        <item>Surgery</item>
+    </string-array>
+
+    <string-array name="specialization">
+        <item>Select your specialization</item>
+        <item>General</item>
+        <item>Periodontist</item>
+    </string-array>
+
 </resources>

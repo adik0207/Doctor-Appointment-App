@@ -28,7 +28,8 @@
             android:text="@string/welcome_to_this_application"
             android:textColor="#000"
             android:textSize="25sp"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            android:textAppearance="@style/TextStyle"/>
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -55,7 +56,8 @@
                     android:inputType="textEmailAddress"
                     android:textColor="#000"
                     android:textColorHint="#000"
-                    android:textSize="18sp" />
+                    android:textSize="18sp"
+                    android:textAppearance="@style/TextStyle"/>
 
             </com.google.android.material.textfield.TextInputLayout>
 
@@ -77,7 +79,8 @@
                     android:inputType="textPassword"
                     android:textColor="#000"
                     android:textColorHint="#000"
-                    android:textSize="18sp" />
+                    android:textSize="18sp"
+                    android:textAppearance="@style/TextStyle"/>
 
             </com.google.android.material.textfield.TextInputLayout>
 
@@ -90,7 +93,8 @@
                 android:background="@drawable/buttons_background"
                 android:text="@string/sign_in_now"
                 android:textAllCaps="false"
-                android:textColor="#fff" />
+                android:textColor="#fff"
+                android:textAppearance="@style/TextStyle"/>
 
             <TextView
                 android:id="@+id/loginPageQuestion"
@@ -102,7 +106,8 @@
                 android:text="@string/don_t_have_an_account_login"
                 android:textAllCaps="false"
                 android:textColor="#000"
-                android:textSize="17sp" />
+                android:textSize="17sp"
+                android:textAppearance="@style/TextStyle"/>
 
             <TextView
                 android:id="@+id/admin"
@@ -114,7 +119,8 @@
                 android:text="@string/admin_login"
                 android:textAllCaps="false"
                 android:textColor="#000"
-                android:textSize="14sp" />
+                android:textSize="14sp"
+                android:textAppearance="@style/TextStyle"/>
 
         </LinearLayout>
 

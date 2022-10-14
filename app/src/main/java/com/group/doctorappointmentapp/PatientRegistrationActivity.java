@@ -87,5 +87,6 @@ public class PatientRegistrationActivity extends AppCompatActivity {
         });
     }
 
-
+    @Override
+    protected void OnActivityResult(int)
 }
